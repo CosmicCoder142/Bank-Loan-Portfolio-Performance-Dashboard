@@ -1,5 +1,4 @@
-# Bank_Loan_Dashboard
-## Bank loan summary dashboard
+#  Loan Portfolio Performance Dashboard
 
 This project involves tracking and analyzing key performance indicators (KPIs) related to loan applications and disbursements. The KPIs include Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio (DTI). Each metric is monitored on a Month-to-Date (MTD) and Month-over-Month (MoM) basis to provide insights into loan portfolio performance and borrower financial health.
 
